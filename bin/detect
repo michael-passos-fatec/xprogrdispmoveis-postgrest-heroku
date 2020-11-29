@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "PostgREST" && exit 0
